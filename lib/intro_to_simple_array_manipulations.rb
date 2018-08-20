@@ -1,4 +1,4 @@
 def using_push(array, second_string)
-  array.push(second_string)
-  array.last
+  new_array = array.push(second_string)
+  new_array.last
 end
