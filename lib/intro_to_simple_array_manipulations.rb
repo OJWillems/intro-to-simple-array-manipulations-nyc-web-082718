@@ -1,3 +1,3 @@
-def using_push(array, nex_country)
+def using_push(array, second_string)
   
 end
